@@ -6,8 +6,6 @@ And I decided to solve this issue once and for all.
 
 So I wrote this script that reads messages in chats and outputs the emoji to text ratio in the messages
 
-<br>
-
 I took [**Pyrogram FA**](https://t.me/PyrogramFA), [**Pyrogram Inn**](https://t.me/pyrogramchat) and [**Pyrogram UA**](https://t.me/UaPyrogram) chats as a basis, the results were as follows:
 
 - 🥇 [Pyrogram FA](https://t.me/PyrogramFA): **0.68%** (52 emojis per 7633 characters)
@@ -132,7 +130,7 @@ Ensure you have your API ID and API Hash from **Telegram** before running the sc
 
 Fill in the `API_ID` and `API_HASH` parameters in the [`.env.example`](.env.example) file:
 
-```toml
+```env
 API_ID=your_api_id_here
 API_HASH="your_api_hash_here"
 ```

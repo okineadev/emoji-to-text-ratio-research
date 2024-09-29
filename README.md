@@ -91,7 +91,7 @@ Dependencies list taken from https://docs.pyrogram.org/topics/speedups#speedups
 Run the script with the following command:
 
 ```bash
-python script.py --chats [CHATS] --message-limit [NUMBER_OF_MESSAGES]
+python3 scan.py --chats [CHATS] --message-limit [NUMBER_OF_MESSAGES]
 ```
 
 ### Command-Line Arguments:
@@ -101,7 +101,7 @@ python script.py --chats [CHATS] --message-limit [NUMBER_OF_MESSAGES]
 ### Example:
 
 ```bash
-python scan.py --chats PyrogramFA pyrogramchat --message-limit 1000
+python3 scan.py --chats PyrogramFA pyrogramchat --message-limit 1000
 ```
 
 This command will analyze the first 1000 messages from the `PyrogramFA` and `pyrogramchat` chats.

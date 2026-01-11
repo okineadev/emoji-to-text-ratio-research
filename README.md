@@ -1,6 +1,6 @@
 # 📊 Emoji-to-Text Ratio Research
 
-I have always had a suspicion that Arabs (or Persians) use emojis in messages more than others, and somehow I decided to google this question, to which I did not find any answer, nor could the AI ​​say anything about it, the only person who except I guessed about it only in the comments under one video, who wrote "The Arabic language is cool, almost every letter is a smiley"
+I have always had a suspicion that Arabs (or Iranians) use emojis in messages more than others, and somehow I decided to google this question, to which I did not find any answer, nor could the AI ​​say anything about it, the only person who except I guessed about it only in the comments under one video, who wrote "The Arabic language is cool, almost every letter is a emoji"
 
 And I decided to solve this issue once and for all.
 
